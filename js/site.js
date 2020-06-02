@@ -1,6 +1,6 @@
 // Hide side navbar with toggle button
 $(".toggle-btn").on("click", function(){
-  $("#sidebar-wrapper").hide();
+  $("#sidebar-wrapper").toggle();
 });
 
 //Print user input in console.console console log
