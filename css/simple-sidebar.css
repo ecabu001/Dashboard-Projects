@@ -7,9 +7,7 @@
 body {
   overflow-x: hidden;
   background-color: #e8e8e8;
-}
-h2{
-  padding-left: 12%;
+  align-content: center;
 }
 
 /* Selectors */
@@ -22,7 +20,7 @@ h2{
   width: 75%;
 }
 .row{
-  padding: 3% 20% 3%;
+  padding: 3% 15% 3%;
   align-content: center;
 }
 /* ID */
